@@ -1,4 +1,4 @@
-#!/home/kiki/pelican/bin/python
+#!/home/kiki/pelican/blog_implantacion/bin/python
 
 import sys
 import getopt

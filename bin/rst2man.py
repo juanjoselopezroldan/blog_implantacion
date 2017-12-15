@@ -1,4 +1,4 @@
-#!/home/kiki/pelican/bin/python2
+#!/home/kiki/pelican/blog_implantacion/bin/python2
 
 # Author: 
 # Contact: grubert@users.sf.net

@@ -1,4 +1,4 @@
-#!/home/kiki/pelican/bin/python2
+#!/home/kiki/pelican/blog_implantacion/bin/python2
 # -*- coding: utf8 -*-
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
